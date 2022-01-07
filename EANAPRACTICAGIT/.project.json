@@ -1,0 +1,19 @@
+{
+	"culture": "culture",
+	"metadataVersion": "7.2.0.2024 BETA",
+	"moduleId": "GITCL",
+	"modules": [
+		{
+			"moduleId": "GITCL",
+			"moduleName": "GIT",
+			"subModules": [
+				{
+					"subModuleId": "GITTF",
+					"subModuleName": "GIT"
+				}
+			]
+		}
+	],
+	"projectName": "EANAPRACTICAGIT",
+	"subModuleId": "GITTF"
+}
