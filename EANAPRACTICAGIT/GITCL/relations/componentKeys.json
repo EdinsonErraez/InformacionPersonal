@@ -1,5 +1,8 @@
 {
 	"Entities": {
+		"EN_ALLFCLINT_525": {
+			"name": "ALLFCliente"
+		},
 		"EN_NDQSCLIEE_479": {
 			"name": "NDQSCliente"
 		}
