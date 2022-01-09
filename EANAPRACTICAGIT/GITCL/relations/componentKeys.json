@@ -9,5 +9,18 @@
 		"EN_NDQSCLIEE_479": {
 			"name": "NDQSCliente"
 		}
+	},
+	"GITTF": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_GITCLIPGIHTRM_950": {
+				"name": "EstudianteNDQSForm"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
 	}
 }

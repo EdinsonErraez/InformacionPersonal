@@ -1,0 +1,16 @@
+[
+	{
+		"attributeName": "",
+		"controlId": "VA_VABUTTONIFYZZCK_408256",
+		"controlName": "VA_VABUTTONIFYZZCK_408256",
+		"controlType": "Button",
+		"customEvents": [
+			{
+				"eventName": "executeCommand",
+				"executionType": 3
+			}
+		],
+		"entityName": "NDQSCliente",
+		"eventsType": "visualAttributeEventType"
+	}
+]

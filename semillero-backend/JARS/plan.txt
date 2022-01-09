@@ -1,0 +1,6 @@
+	<plan id="semillero-aaen" reloadable="true">
+		<plugin name="gitcl.domains-1.0.0.jar"	path="../../SEM/plugins/gitcl.domains-1.0.0.jar"/>
+		<plugin name="gitcl.grupoaaen.customevents.impl-1.0.0.jar"	path="../../SEM/plugins/gitcl.grupoaaen.customevents.impl-1.0.0.jar"/>
+		<plugin name="gitcl.grupoaaen.customevents.view-1.0.0.jar"	path="../../SEM/plugins/gitcl.grupoaaen.customevents.view-1.0.0.jar"/>
+		<plugin name="gitcl.grupoaaen.services-1.0.0.jar"	path="../../SEM/plugins/gitcl.grupoaaen.services-1.0.0.jar"/>
+	</plan>

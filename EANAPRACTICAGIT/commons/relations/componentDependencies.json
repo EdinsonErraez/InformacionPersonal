@@ -16,6 +16,33 @@
 		}
 	},
 	"Forms": {
+		"T_GITCLIPGIHTRM_950": {
+			"blis": [
+			],
+			"entities": {
+				"EN_NDQSCLIEE_479": [
+					"AT28_SEXOHPPR479",
+					"AT52_NOMBRENY479",
+					"AT98_EDADKBWF479"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_GITCL_EDADNKLKZ_98165",
+				"LBL_GITCL_GUARDARZK_44108",
+				"LBL_GITCL_NOMBREQWH_87969",
+				"LBL_GITCL_SEXOGGCNU_78106"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
 	},
 	"Queries": {
 	}

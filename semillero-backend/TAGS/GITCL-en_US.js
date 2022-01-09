@@ -1,0 +1,8 @@
+{
+	"GITCL": {
+		"LBL_GITCL_EDADNKLKZ_98165": "Edad",
+		"LBL_GITCL_GUARDARZK_44108": "Guardar",
+		"LBL_GITCL_NOMBREQWH_87969": "Nombre",
+		"LBL_GITCL_SEXOGGCNU_78106": "Sexo"
+	}
+}
