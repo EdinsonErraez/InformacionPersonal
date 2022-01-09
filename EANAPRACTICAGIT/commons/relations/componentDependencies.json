@@ -16,6 +16,35 @@
 		}
 	},
 	"Forms": {
+		"T_GITCLEFHORQRI_967": {
+			"blis": [
+			],
+			"entities": {
+				"EN_AFABCLITE_234": [
+					"AT38_EDADOFJY234",
+					"AT75_SEXOGWON234",
+					"AT83_APELLIOO234",
+					"AT86_NOMBREKC234"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_GITCL_APELLIDOO_46349",
+				"LBL_GITCL_EDADNKLKZ_98165",
+				"LBL_GITCL_GUARDARNJ_24675",
+				"LBL_GITCL_NOMBREQWH_87969",
+				"LBL_GITCL_SEXOGGCNU_78106"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
 		"T_GITCLIPGIHTRM_950": {
 			"blis": [
 			],
