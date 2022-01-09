@@ -5,7 +5,15 @@
 		"forms": {
 			"GITCL": [
 				{
-					"generated": 4,
+					"generated": 0,
+					"moduleId": "GITCL",
+					"name": "EstudianteAFABForm",
+					"subModuleId": "GITTF",
+					"taskId": "T_GITCLEFHORQRI_967",
+					"type": "Simple form"
+				},
+				{
+					"generated": 2,
 					"moduleId": "GITCL",
 					"name": "EstudianteEEEVForm",
 					"subModuleId": "GITTF",
@@ -21,7 +29,7 @@
 					"type": "Simple form"
 				},
 				{
-					"generated": 4,
+					"generated": 2,
 					"moduleId": "GITCL",
 					"name": "EstudianteALFForm",
 					"subModuleId": "GITTF",
