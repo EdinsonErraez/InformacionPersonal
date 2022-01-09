@@ -1,5 +1,8 @@
 {
 	"Entities": {
+		"EN_AFABCLITE_234": {
+			"name": "AFABCliente"
+		},
 		"EN_ALLFCLINT_525": {
 			"name": "ALLFCliente"
 		},
