@@ -1,0 +1,16 @@
+[
+	{
+		"attributeName": "",
+		"controlId": "VA_VABUTTONSCTFEES_254470",
+		"controlName": "VA_VABUTTONSCTFEES_254470",
+		"controlType": "Button",
+		"customEvents": [
+			{
+				"eventName": "executeCommand",
+				"executionType": 3
+			}
+		],
+		"entityName": "ALLFCliente",
+		"eventsType": "visualAttributeEventType"
+	}
+]

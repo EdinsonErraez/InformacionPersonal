@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 TFS-BuildDate: 2020-11-20 11:37:21
 Bundle-SymbolicName: com.cobiscorp.cobis-gitcl.grupoaaen.customevents.
  impl-1.0.0
-Built-By: Nixon
+Built-By: dario
 Bundle-ManifestVersion: 2
 Bundle-Vendor: COBISCORP
 TFS-RepositoryName: https://tfs.cobiscorp.com/tfs/DefaultCollection/CO
@@ -21,6 +21,6 @@ Export-Package: com.cobiscorp.cobis.gitcl.customevents.impl.view.execu
  ion.arguments"
 Bundle-Name: com.cobiscorp.cobis-gitcl.grupoaaen.customevents.impl
 Bundle-Version: 1.0.0
-Build-Jdk: 1.8.0_261
+Build-Jdk: 1.8.0_311
 Created-By: Maven Integration for Eclipse
 

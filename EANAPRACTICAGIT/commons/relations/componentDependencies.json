@@ -42,6 +42,35 @@
 			},
 			"subForms": [
 			]
+		},
+		"T_GITCLYRFNMHDS_898": {
+			"blis": [
+			],
+			"entities": {
+				"EN_ALLFCLINT_525": [
+					"AT24_NOMBRECJ525",
+					"AT25_SEXOVOZR525",
+					"AT42_EDADNGBE525",
+					"AT85_APELLIOD525"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_GITCL_APELLIDOO_46349",
+				"LBL_GITCL_EDADNKLKZ_98165",
+				"LBL_GITCL_GUARDARZK_44108",
+				"LBL_GITCL_NOMBREQWH_87969",
+				"LBL_GITCL_SEXOGGCNU_78106"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
 		}
 	},
 	"Queries": {
