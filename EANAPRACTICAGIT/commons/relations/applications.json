@@ -25,7 +25,7 @@
 					"type": "Simple form"
 				},
 				{
-					"generated": 2,
+					"generated": 4,
 					"moduleId": "GITCL",
 					"moduleName": "GIT",
 					"name": "EstudianteNDQSForm",
