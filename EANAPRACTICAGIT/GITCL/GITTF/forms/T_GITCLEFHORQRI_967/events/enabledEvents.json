@@ -1,0 +1,16 @@
+[
+	{
+		"attributeName": "",
+		"controlId": "VA_VABUTTONFKKPDNQ_839303",
+		"controlName": "VA_VABUTTONFKKPDNQ_839303",
+		"controlType": "Button",
+		"customEvents": [
+			{
+				"eventName": "executeCommand",
+				"executionType": 3
+			}
+		],
+		"entityName": "AFABCliente",
+		"eventsType": "visualAttributeEventType"
+	}
+]
