@@ -5,34 +5,42 @@
 		"forms": {
 			"GITCL": [
 				{
-					"generated": 0,
+					"generated": 4,
 					"moduleId": "GITCL",
-					"name": "EstudianteAFABForm",
-					"subModuleId": "GITTF",
-					"taskId": "T_GITCLEFHORQRI_967",
-					"type": "Simple form"
-				},
-				{
-					"generated": 2,
-					"moduleId": "GITCL",
+					"moduleName": "GIT",
 					"name": "EstudianteEEEVForm",
 					"subModuleId": "GITTF",
+					"subModuleName": "GIT",
 					"taskId": "T_GITCLCMGNSCXM_149",
 					"type": "Simple form"
 				},
 				{
 					"generated": 4,
 					"moduleId": "GITCL",
+					"moduleName": "GIT",
+					"name": "EstudianteAFABForm",
+					"subModuleId": "GITTF",
+					"subModuleName": "GIT",
+					"taskId": "T_GITCLEFHORQRI_967",
+					"type": "Simple form"
+				},
+				{
+					"generated": 4,
+					"moduleId": "GITCL",
+					"moduleName": "GIT",
 					"name": "EstudianteNDQSForm",
 					"subModuleId": "GITTF",
+					"subModuleName": "GIT",
 					"taskId": "T_GITCLIPGIHTRM_950",
 					"type": "Simple form"
 				},
 				{
-					"generated": 2,
+					"generated": 4,
 					"moduleId": "GITCL",
+					"moduleName": "GIT",
 					"name": "EstudianteALFForm",
 					"subModuleId": "GITTF",
+					"subModuleName": "GIT",
 					"taskId": "T_GITCLYRFNMHDS_898",
 					"type": "Simple form"
 				}
