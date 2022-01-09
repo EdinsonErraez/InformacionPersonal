@@ -1,0 +1,16 @@
+[
+	{
+		"attributeName": "",
+		"controlId": "VA_VABUTTONTIGWXZA_399912",
+		"controlName": "VA_VABUTTONTIGWXZA_399912",
+		"controlType": "Button",
+		"customEvents": [
+			{
+				"eventName": "executeCommand",
+				"executionType": 3
+			}
+		],
+		"entityName": "EEEVCliente",
+		"eventsType": "visualAttributeEventType"
+	}
+]

@@ -13,15 +13,15 @@
 	"id": {
 		"moduleId": "GITCL",
 		"subModuleId": "GITTF",
-		"taskId": "T_GITCLIPGIHTRM_950",
+		"taskId": "T_GITCLCMGNSCXM_149",
 		"version": "1.0.0"
 	},
 	"isCustomized": false,
 	"isImported": false,
-	"mainViewContainerId": "VC_ESTUDIANDQ_249950",
+	"mainViewContainerId": "VC_ESTUDIANET_528149",
 	"modeEnabled": 4095,
 	"name": {
-		"$ref": "../../../../GITCL/relations/componentKeys.json#/GITTF/Forms/T_GITCLIPGIHTRM_950/name"
+		"$ref": "../../../../GITCL/relations/componentKeys.json#/GITTF/Forms/T_GITCLCMGNSCXM_149/name"
 	},
 	"setFocus": false,
 	"tempSaveStr": "F",
@@ -40,13 +40,13 @@
 			"id": {
 				"moduleId": "GITCL",
 				"subModuleId": "GITTF",
-				"taskId": "T_GITCLIPGIHTRM_950",
+				"taskId": "T_GITCLCMGNSCXM_149",
 				"taskVersion": "1.0.0",
-				"viewContainerId": "VC_ESTUDIANDQ_249950"
+				"viewContainerId": "VC_ESTUDIANET_528149"
 			},
 			"isCustomized": false,
 			"layoutType": "Group",
-			"name": "EstudianteNDQSForm",
+			"name": "EstudianteEEEVForm",
 			"options": 0,
 			"responsiveLayouts": null,
 			"responsivity": false,
@@ -56,21 +56,21 @@
 					{
 						"collapsedStr": "F",
 						"colSpan": 1,
-						"columnsNum": 3,
+						"columnsNum": 4,
 						"componentStyle": null,
 						"customEvents": [
 						],
 						"enabled": 4095,
 						"entity": {
-							"$ref": "../../../../GITCL/entities/EN_NDQSCLIEE_479.json#"
+							"$ref": "../../../../GITCL/entities/EN_EEEVCLIET_885.json#"
 						},
 						"eventType": 0,
-						"groupId": "G_ESTUDIASNN_753256",
+						"groupId": "G_ESTUDIAEEE_223912",
 						"htmlSection": "F",
 						"independentValidation": "F",
 						"isCustomized": false,
 						"layoutType": "Group",
-						"name": "Group1256",
+						"name": "Group1598",
 						"order": 1,
 						"orientation": "V",
 						"responsiveLayouts": null,
@@ -82,7 +82,7 @@
 								"aggregate": null,
 								"aggregateId": null,
 								"attribute": {
-									"$ref": "../../../../GITCL/entities/EN_NDQSCLIEE_479.json#/attributes/AT83_APELLIDD479"
+									"$ref": "../../../../GITCL/entities/EN_EEEVCLIET_885.json#/attributes/AT87_APELLIDD885"
 								},
 								"attributeValidations": [
 								],
@@ -119,7 +119,7 @@
 									"userControlId": "TextInputBox"
 								},
 								"visible": 4095,
-								"visualAttributeId": "VA_APELLIDOZYHLZSL_635256",
+								"visualAttributeId": "VA_APELLIDOSNJZQKB_607912",
 								"width": null,
 								"widthComposite": "D"
 							},
@@ -127,7 +127,7 @@
 								"aggregate": null,
 								"aggregateId": null,
 								"attribute": {
-									"$ref": "../../../../GITCL/entities/EN_NDQSCLIEE_479.json#/attributes/AT98_EDADKBWF479"
+									"$ref": "../../../../GITCL/entities/EN_EEEVCLIET_885.json#/attributes/AT87_EDADFMVS885"
 								},
 								"attributeValidations": [
 								],
@@ -164,7 +164,7 @@
 									"userControlId": "TextInputBox"
 								},
 								"visible": 4095,
-								"visualAttributeId": "VA_EDADHVRSNCVVQAO_892256",
+								"visualAttributeId": "VA_EDADNZVTNIOIFOR_239912",
 								"width": null,
 								"widthComposite": "D"
 							},
@@ -172,7 +172,7 @@
 								"aggregate": null,
 								"aggregateId": null,
 								"attribute": {
-									"$ref": "../../../../GITCL/entities/EN_NDQSCLIEE_479.json#/attributes/AT52_NOMBRENY479"
+									"$ref": "../../../../GITCL/entities/EN_EEEVCLIET_885.json#/attributes/AT46_NOMBREXF885"
 								},
 								"attributeValidations": [
 								],
@@ -209,7 +209,7 @@
 									"userControlId": "TextInputBox"
 								},
 								"visible": 4095,
-								"visualAttributeId": "VA_NOMBREDAIPSVKKR_557256",
+								"visualAttributeId": "VA_NOMBREVCDJSZUOV_143912",
 								"width": null,
 								"widthComposite": "D"
 							},
@@ -217,7 +217,7 @@
 								"aggregate": null,
 								"aggregateId": null,
 								"attribute": {
-									"$ref": "../../../../GITCL/entities/EN_NDQSCLIEE_479.json#/attributes/AT28_SEXOHPPR479"
+									"$ref": "../../../../GITCL/entities/EN_EEEVCLIET_885.json#/attributes/AT68_SEXOUIHR885"
 								},
 								"attributeValidations": [
 								],
@@ -274,7 +274,7 @@
 									"userControlId": "ComboBox"
 								},
 								"visible": 4095,
-								"visualAttributeId": "VA_SEXOKAEKNOPMKTG_663256",
+								"visualAttributeId": "VA_SEXOSHFTVILIKMX_279912",
 								"width": null,
 								"widthComposite": "D"
 							},
@@ -288,7 +288,7 @@
 								"componentStyle": null,
 								"customEvents": [
 									{
-										"customEventId": "CEVA_010VA_VABUTTONIFYZZCK_408256_496",
+										"customEventId": "CEVA_010VA_VABUTTONTIGWXZA_399912_751",
 										"customizationLayer": 0,
 										"customizationLayerDescription": "ECU",
 										"enabled": "T",
@@ -325,7 +325,7 @@
 									"moduleId": "GITCL"
 								},
 								"maxRecords": null,
-								"name": "VA_VABUTTONIFYZZCK_408256",
+								"name": "VA_VABUTTONTIGWXZA_399912",
 								"options": 0,
 								"order": 5,
 								"queryModule": null,
@@ -339,7 +339,7 @@
 									"userControlId": "Button"
 								},
 								"visible": 4095,
-								"visualAttributeId": "VA_VABUTTONIFYZZCK_408256",
+								"visualAttributeId": "VA_VABUTTONTIGWXZA_399912",
 								"width": null,
 								"widthComposite": "D"
 							}
@@ -348,7 +348,7 @@
 				],
 				"id": {
 					"version": "1.0.0",
-					"viewId": "VW_ESTUDIANEE_256"
+					"viewId": "VW_ESTUDIANEE_912"
 				},
 				"metadataVersion": "7.2.0.2024 BETA",
 				"modules": [
@@ -356,7 +356,7 @@
 						"moduleId": "GITCL"
 					}
 				],
-				"name": "View of EstudianteNDQSForm"
+				"name": "View of EstudianteEEEVForm"
 			}
 		}
 	]

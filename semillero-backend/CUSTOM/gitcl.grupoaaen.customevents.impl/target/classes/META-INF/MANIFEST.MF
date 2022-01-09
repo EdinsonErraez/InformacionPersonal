@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 TFS-BuildDate: 2020-11-20 11:37:21
 Bundle-SymbolicName: com.cobiscorp.cobis-gitcl.grupoaaen.customevents.
  impl-1.0.0
-Built-By: dario
+Built-By: USER
 Bundle-ManifestVersion: 2
 Bundle-Vendor: COBISCORP
 TFS-RepositoryName: https://tfs.cobiscorp.com/tfs/DefaultCollection/CO

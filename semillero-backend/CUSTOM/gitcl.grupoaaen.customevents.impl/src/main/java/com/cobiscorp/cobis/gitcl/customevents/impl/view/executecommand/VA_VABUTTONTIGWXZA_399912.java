@@ -1,5 +1,5 @@
 /*
- * Archivo: VA_VABUTTONIFYZZCK_408256.java
+ * Archivo: VA_VABUTTONTIGWXZA_399912.java
  *
  * Esta aplicacion es parte de los paquetes bancarios propiedad de COBISCORP.
  * Su uso no autorizado queda expresamente prohibido asi como cualquier
@@ -19,7 +19,7 @@ import org.apache.felix.scr.annotations.Property;
 import org.apache.felix.scr.annotations.Service;
 import com.cobiscorp.cobis.commons.domains.log.ILogger;
 import com.cobiscorp.cobis.commons.log.LogFactory;
-import com.cobiscorp.cobis.gitcl.model.NDQSCliente;
+import com.cobiscorp.cobis.gitcl.model.EEEVCliente;
 import com.cobiscorp.designer.api.DataEntity;
 import com.cobiscorp.designer.api.DynamicRequest;
 import com.cobiscorp.designer.api.customization.IExecuteCommand;
@@ -29,28 +29,28 @@ import com.cobiscorp.designer.api.managers.DesignerManagerException;
 @Component
 @Service({ IExecuteCommand.class })
 @Properties(value={
-		@Property(name = "view.id", value = "VW_ESTUDIANEE_256"),
+		@Property(name = "view.id", value = "VW_ESTUDIANEE_912"),
 		@Property(name = "view.version", value = "1.0.0"),
-		@Property(name = "view.controlId", value = "VA_VABUTTONIFYZZCK_408256")})
+		@Property(name = "view.controlId", value = "VA_VABUTTONTIGWXZA_399912")})
 
-public class VA_VABUTTONIFYZZCK_408256 implements IExecuteCommand {
+public class VA_VABUTTONTIGWXZA_399912 implements IExecuteCommand {
 	/**
 	 * Instancia de Logger
 	 */
-	private static final ILogger logger = LogFactory.getLogger(VA_VABUTTONIFYZZCK_408256.class);
+	private static final ILogger logger = LogFactory.getLogger(VA_VABUTTONTIGWXZA_399912.class);
 
 	@Override
 	public void executeCommand(DynamicRequest arg0, IExecuteCommandEventArgs arg1) {
 		// TODO Auto-generated method stub
 		try {
 			if (logger.isDebugEnabled()) {
-				logger.logDebug("Start executeCommand in VA_VABUTTONIFYZZCK_408256");
+				logger.logDebug("Start executeCommand in VA_VABUTTONTIGWXZA_399912");
 			}
-			DataEntity nixon = arg0.getEntity(NDQSCliente.ENTITY_NAME);
-			String nombre = nixon.get(NDQSCliente.NOMBRE);
-			String apellido = nixon.get(NDQSCliente.APELLIDO);
-			String sexo = nixon.get(NDQSCliente.SEXO);
-			int edad = nixon.get(NDQSCliente.EDAD);
+			DataEntity edinson = arg0.getEntity(EEEVCliente.ENTITY_NAME);
+			String nombre = edinson.get(EEEVCliente.NOMBRE);
+			String apellido = edinson.get(EEEVCliente.APELLIDO);
+			String sexo = edinson.get(EEEVCliente.SEXO);
+			int edad = edinson.get(EEEVCliente.EDAD);
 			logger.logDebug("Nombre: " + nombre);
 			logger.logDebug("Apellido: " + apellido);
 			logger.logDebug("Sexo: " + sexo);

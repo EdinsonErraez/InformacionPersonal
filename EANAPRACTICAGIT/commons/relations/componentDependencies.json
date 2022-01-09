@@ -10,12 +10,45 @@
 			"labels": [
 			]
 		},
+		"EN_EEEVCLIET_885": {
+			"labels": [
+			]
+		},
 		"EN_NDQSCLIEE_479": {
 			"labels": [
 			]
 		}
 	},
 	"Forms": {
+		"T_GITCLCMGNSCXM_149": {
+			"blis": [
+			],
+			"entities": {
+				"EN_EEEVCLIET_885": [
+					"AT46_NOMBREXF885",
+					"AT68_SEXOUIHR885",
+					"AT87_APELLIDD885",
+					"AT87_EDADFMVS885"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_GITCL_APELLIDOO_46349",
+				"LBL_GITCL_EDADNKLKZ_98165",
+				"LBL_GITCL_GUARDARZK_44108",
+				"LBL_GITCL_NOMBREQWH_87969",
+				"LBL_GITCL_SEXOGGCNU_78106"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
 		"T_GITCLIPGIHTRM_950": {
 			"blis": [
 			],
@@ -23,6 +56,7 @@
 				"EN_NDQSCLIEE_479": [
 					"AT28_SEXOHPPR479",
 					"AT52_NOMBRENY479",
+					"AT83_APELLIDD479",
 					"AT98_EDADKBWF479"
 				]
 			},
@@ -33,6 +67,7 @@
 			"header": [
 			],
 			"labels": [
+				"LBL_GITCL_APELLIDOO_46349",
 				"LBL_GITCL_EDADNKLKZ_98165",
 				"LBL_GITCL_GUARDARZK_44108",
 				"LBL_GITCL_NOMBREQWH_87969",

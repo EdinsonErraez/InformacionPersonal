@@ -1,0 +1,12 @@
+{
+	"entities": [
+		{
+			"entityId": "EN_EEEVCLIET_885",
+			"isContextEntity": null,
+			"moduleId": "GITCL",
+			"related": false
+		}
+	],
+	"queries": [
+	]
+}

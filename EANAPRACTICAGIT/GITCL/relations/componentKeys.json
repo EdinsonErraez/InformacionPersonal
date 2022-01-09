@@ -6,6 +6,9 @@
 		"EN_ALLFCLINT_525": {
 			"name": "ALLFCliente"
 		},
+		"EN_EEEVCLIET_885": {
+			"name": "EEEVCliente"
+		},
 		"EN_NDQSCLIEE_479": {
 			"name": "NDQSCliente"
 		}
@@ -14,6 +17,9 @@
 		"CompositeForms": {
 		},
 		"Forms": {
+			"T_GITCLCMGNSCXM_149": {
+				"name": "EstudianteEEEVForm"
+			},
 			"T_GITCLIPGIHTRM_950": {
 				"name": "EstudianteNDQSForm"
 			},

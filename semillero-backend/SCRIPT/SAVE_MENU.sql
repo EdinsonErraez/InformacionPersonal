@@ -64,7 +64,20 @@ insert into cew_menu (me_id,      me_id_parent, me_name,             me_visible,
 insert into cew_menu_role (mro_id_menu, mro_id_role)
 values (@w_id_menu, @w_id_rol)
 
+-- CREACION DE MENU EEEV
+select @w_id_url = 'views/GITCL/GITTF/T_GITCLCMGNSCXM_149/1.0.0/VC_ESTUDIANET_528149_TASK.html'
+
+select @w_id_menu = @w_id_menu + 1
+insert into cew_menu (me_id,      me_id_parent, me_name,             me_visible, me_url,    me_order, 
+                      me_id_cobis_product, me_option,  me_description, me_version, me_container)
+              values (@w_id_menu, @w_id_parent, 'MNU_REPOSITORIO_AAEN_EEEV', 1,          @w_id_url, 1, 
+                      @w_id_producto,      0,       'SubMenu para practica de repositorio',  NULL,       'CWC')
+
+insert into cew_menu_role (mro_id_menu, mro_id_role)
+values (@w_id_menu, @w_id_rol)
+
 --SELECT DE MENUS CREADOS
 select * from cew_menu where me_name = 'MNU_REPOSITORIO_AAEN'
 select * from cew_menu where me_name = 'MNU_REPOSITORIO_AAEN_NDQS'
 select * from cew_menu where me_name = 'MNU_REPOSITORIO_AAEN_ALLF'
+select * from cew_menu where me_name = 'MNU_REPOSITORIO_AAEN_EEEV'
