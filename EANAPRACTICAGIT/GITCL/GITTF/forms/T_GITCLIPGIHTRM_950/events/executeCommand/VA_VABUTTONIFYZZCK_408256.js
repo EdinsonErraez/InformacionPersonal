@@ -6,7 +6,7 @@
 task.executeCommand.VA_VABUTTONIFYZZCK_408256 = function(  entities, executeCommandEventArgs ) {
 
     executeCommandEventArgs.commons.execServer = true;
-    console.log('Nombre' + entities.NDQSCliente.nombre);
+    console.log('Nombre y Apellido: ' + entities.NDQSCliente.nombre + " " + entities.NDQSCliente.apellido);
     //executeCommandEventArgs.commons.serverParameters.NDQSCliente = true;
 
 };

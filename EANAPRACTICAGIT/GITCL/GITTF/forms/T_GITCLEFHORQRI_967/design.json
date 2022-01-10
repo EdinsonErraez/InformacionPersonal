@@ -319,9 +319,9 @@
 								"isCustomized": false,
 								"label": {
 									"defaultValue": {
-										"$ref": "../../../../GITCL/assets/languages/GITCL.json#/GITCL/LBL/LBL_GITCL_GUARDARNJ_24675"
+										"$ref": "../../../../GITCL/assets/languages/GITCL.json#/GITCL/LBL/LBL_GITCL_GUARDARZK_44108"
 									},
-									"labelId": "LBL_GITCL_GUARDARNJ_24675",
+									"labelId": "LBL_GITCL_GUARDARZK_44108",
 									"moduleId": "GITCL"
 								},
 								"maxRecords": null,

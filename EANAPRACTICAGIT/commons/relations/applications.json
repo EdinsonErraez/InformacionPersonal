@@ -15,7 +15,7 @@
 					"type": "Simple form"
 				},
 				{
-					"generated": 0,
+					"generated": 4,
 					"moduleId": "GITCL",
 					"moduleName": "GIT",
 					"name": "EstudianteAFABForm",
